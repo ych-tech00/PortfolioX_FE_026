@@ -70,7 +70,7 @@ function App() {
               path="/dashboard"
               element={
                 <PrivateRoute>
-                  <p>Welcome to admin , love</p>
+                  <p>Welcome to admin</p>
                   {/* <Dashboard /> */}
                 </PrivateRoute>
               }
